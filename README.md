@@ -18,5 +18,5 @@ When I'm not working, I'm usually with my family.
 
 In the recent years, some of my work has made the news:
 * A way to monitor people who has been infected by covid-19: [TK](https://www.tk.no/kristiansund-forst-i-norge-med-digitalt-koronaverktoy-vil-bidra-til-a-berge-liv/s/5-51-789597) | [VG](https://www.vg.no/nyheter/innenriks/i/P9xWzp/hjemmeovervaaker-coronasmittede)
-* A way to book appointments for covid-19 tests: [TK](https://www.tk.no/na-kan-du-bestille-koronatest-pa-nett-vi-har-hatt-en-kraftig-okning/s/5-51-843997) | [NRK](https://tv.nrk.no/serie/distriktsnyheter-moere-og-romsdal/202008/DKMR98082020/avspiller#t=2m30s) | [Jærbladet](https://www.jbl.no/no-kan-du-bestilla-koronatest-pa-nettet/s/5-103-511806)
+* A way to book appointments for covid-19 tests: [TK](https://www.tk.no/over-220-000-personer-bruker-losningen-som-er-utviklet-i-kristiansund-na-blir-ogsa-sunndal-med/s/5-51-864176) | [NRK](https://tv.nrk.no/serie/distriktsnyheter-moere-og-romsdal/202008/DKMR98082020/avspiller#t=2m30s) | [Jærbladet](https://www.jbl.no/no-kan-du-bestilla-koronatest-pa-nettet/s/5-103-511806)
 * An application which can open doors: [NRK](https://tv.nrk.no/serie/distriktsnyheter-moere-og-romsdal/201912/DKMR99120219/avspiller#t=2m50s)
