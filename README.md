@@ -5,7 +5,8 @@ I have been working as a full stack web developer since 2010. Before that, I stu
 After my studies, I have been employed by the following companies:
 * [Revio AS](https://www.qondor.com/) (2010-2014)
 * [Capitech AS](https://www.simployer.no/) (2014-2019)
-* [IKT ORKidé](https://www.iktorkide.no/) (2019-now)
+* [IKT ORKidé](https://www.iktorkide.no/) (2019-2020)
+* [Kristiansund kommune](https://www.kristiansund.kommune.no/) (2020-now)
 
 I mainly work with the following technologies:
 * [ASP.NET Core](https://github.com/dotnet/aspnetcore) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
