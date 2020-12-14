@@ -10,7 +10,7 @@ After my studies, I have been employed by the following companies:
 
 I mainly work with the following technologies:
 * [ASP.NET Core](https://github.com/dotnet/aspnetcore) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-* [TypeScript](https://www.typescriptlang.org/) and web frameworks like [Vue.js](https://vuejs.org/) and [Aurelia](https://aurelia.io/)
+* [TypeScript](https://www.typescriptlang.org/) and web frameworks like [Vue.js](https://vuejs.org/)
 * [Azure SQL](https://azure.microsoft.com/services/sql-database/) databases
 
 I also like [powershell](https://github.com/PowerShell/PowerShell), [python](https://www.python.org/), [node.js](https://nodejs.org/), and other interesting stuff.
