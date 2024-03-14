@@ -23,4 +23,4 @@ In the recent years, some of my work has made the news:
 * A way to book appointments for covid-19 tests: [TK](https://www.tk.no/over-220-000-personer-bruker-losningen-som-er-utviklet-i-kristiansund-na-blir-ogsa-sunndal-med/s/5-51-864176) | [NRK](https://tv.nrk.no/serie/distriktsnyheter-moere-og-romsdal/202008/DKMR98082020/avspiller#t=2m30s) | [Jærbladet](https://www.jbl.no/no-kan-du-bestilla-koronatest-pa-nettet/s/5-103-511806)
 * When I got a new job: [TK](https://www.tk.no/ole-morten-32-er-nyansatt-senior-systemutvikler-i-kommunen-det-a-kunne-bidra-til-a-gjore-en-forskjell-foles-bra/s/5-51-888026)
 * A system for handling covid-19 vaccination: [TK](https://www.tk.no/na-har-de-losningen-klar-et-skikkelig-lagarbeid/s/5-51-951704)
-* My team won the first @GreenTechSee Hackathon: [TK](https://www.tk.no/de-vant-regionens-forste-hackathon-jeg-har-fortsatt-hundre-i-puls/s/5-51-1501078)
+* My team won the first [@GreenTechSee](https://github.com/GreenTechSee) Hackathon: [TK](https://www.tk.no/de-vant-regionens-forste-hackathon-jeg-har-fortsatt-hundre-i-puls/s/5-51-1501078)
